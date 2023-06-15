@@ -67,10 +67,7 @@ export default function PaymentForm() {
         </form>
       ) : (
         <div>
-          <h2>
-            You just bought a sweet spatula this is the best decision of your
-            life
-          </h2>
+          <h2>mmmmm yummy burger (success)</h2>
         </div>
       )}
     </>
